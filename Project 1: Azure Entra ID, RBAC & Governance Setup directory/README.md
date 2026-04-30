@@ -54,7 +54,7 @@ PowerShell
 
 Bicep (optional IaC implementation)
 
-##Implementation Steps
+## Implementation Steps
 
 
 ## Features
